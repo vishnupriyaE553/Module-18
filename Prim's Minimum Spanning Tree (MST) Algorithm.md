@@ -1,4 +1,4 @@
-# Ex. No: 12A - Prim's Minimum Spanning Tree (MST) Algorithm
+# Ex. No: 18A - Prim's Minimum Spanning Tree (MST) Algorithm
 
 ## AIM:
 To write a Python program for **Prim's Minimum Spanning Tree (MST)** algorithm.
