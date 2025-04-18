@@ -1,4 +1,4 @@
-# Ex. No: 12B - Kruskal's Minimum Spanning Tree (MST) Algorithm
+# Ex. No: 18B - Kruskal's Minimum Spanning Tree (MST) Algorithm
 
 ## AIM:
 To write a Python program for **Kruskal's algorithm** to find the Minimum Spanning Tree (MST) of a given connected, undirected, and weighted graph.
